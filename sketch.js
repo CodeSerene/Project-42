@@ -1,5 +1,5 @@
 var score =0;
-var gun,bluebubble,redbubble, bullet, backBoard;
+var gun,bluebubble,redbubble, bullet, blast, backBoard;
 
 var gunImg,bubbleImg, bulletImg, blastImg, backBoardImg;
 
